@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "id": "ushmm-eisenhower-holocaust",
+    "title": "Indescribable Horror: When Eisenhower Witnessed the Holocaust",
+    "mediaType": "youtube",
+    "canonicalUrl": "https://www.youtube.com/watch?v=U0O-77QhQyY",
+    "publisher": "United States Holocaust Memorial Museum",
+    "language": "en",
+    "rightsNotes": "Link to publisher only; embedding and redistribution not authorized or checked",
+    "evidenceRole": "primary",
+    "verificationStatus": "proposed",
+    "archiveEntryIds": [],
+    "topics": [
+      "holocaust",
+      "historical atrocities"
+    ],
+    "embedAllowed": false
+  },
+  {
+    "id": "smithsonian-leopold-loeb",
+    "title": "The Crime of the Century, a Century Later",
+    "mediaType": "podcast",
+    "canonicalUrl": "https://www.smithsonianmag.com/podcast/series/theres-more-to-that/season-1/",
+    "publisher": "Smithsonian Magazine",
+    "language": "en",
+    "rightsNotes": "Link to publisher only; embedding and redistribution not authorized or checked",
+    "evidenceRole": "secondary",
+    "verificationStatus": "proposed",
+    "archiveEntryIds": [],
+    "topics": [
+      "criminal justice",
+      "history"
+    ],
+    "embedAllowed": false
+  },
+  {
+    "id": "smithsonian-manhunt",
+    "title": "The Man Behind Manhunt",
+    "mediaType": "podcast",
+    "canonicalUrl": "https://www.smithsonianmag.com/podcast/series/theres-more-to-that/season-1/",
+    "publisher": "Smithsonian Magazine",
+    "language": "en",
+    "rightsNotes": "Link to publisher only; embedding and redistribution not authorized or checked",
+    "evidenceRole": "secondary",
+    "verificationStatus": "proposed",
+    "archiveEntryIds": [],
+    "topics": [
+      "historical crime",
+      "Lincoln assassination"
+    ],
+    "embedAllowed": false
+  }
+]
