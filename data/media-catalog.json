@@ -49,5 +49,41 @@
       "Lincoln assassination"
     ],
     "embedAllowed": false
+  },
+  {
+    "id": "smithsonian-osage-history",
+    "title": "How the Osage Changed Martin Scorsese's Mind About Killers of the Flower Moon",
+    "mediaType": "podcast",
+    "canonicalUrl": "https://www.smithsonianmag.com/podcast/series/theres-more-to-that/season-1/",
+    "publisher": "Smithsonian Magazine — There's More to That",
+    "language": "en",
+    "rightsNotes": "Publisher series page verified; episode-specific URL and embedding permissions still need review",
+    "evidenceRole": "secondary",
+    "verificationStatus": "proposed",
+    "archiveEntryIds": [],
+    "topics": [
+      "historical crime",
+      "indigenous history"
+    ],
+    "embedAllowed": false,
+    "sourceCheck": "Episode title confirmed in Smithsonian publisher episode index; episode-specific URL pending"
+  },
+  {
+    "id": "smithsonian-book-banning",
+    "title": "A Brief History of Banned Books in America",
+    "mediaType": "podcast",
+    "canonicalUrl": "https://www.smithsonianmag.com/podcast/series/theres-more-to-that/season-1/",
+    "publisher": "Smithsonian Magazine — There's More to That",
+    "language": "en",
+    "rightsNotes": "Publisher series page verified; episode-specific URL and embedding permissions still need review",
+    "evidenceRole": "secondary",
+    "verificationStatus": "proposed",
+    "archiveEntryIds": [],
+    "topics": [
+      "censorship",
+      "history"
+    ],
+    "embedAllowed": false,
+    "sourceCheck": "Episode title confirmed in Smithsonian publisher episode index; episode-specific URL pending"
   }
 ]
