@@ -14,7 +14,8 @@
       "holocaust",
       "historical atrocities"
     ],
-    "embedAllowed": false
+    "embedAllowed": false,
+    "sourceCheck": "pending"
   },
   {
     "id": "smithsonian-leopold-loeb",
@@ -31,7 +32,9 @@
       "criminal justice",
       "history"
     ],
-    "embedAllowed": false
+    "embedAllowed": false,
+    "linkTarget": "series",
+    "sourceCheck": "pending"
   },
   {
     "id": "smithsonian-manhunt",
@@ -48,7 +51,9 @@
       "historical crime",
       "Lincoln assassination"
     ],
-    "embedAllowed": false
+    "embedAllowed": false,
+    "linkTarget": "series",
+    "sourceCheck": "pending"
   },
   {
     "id": "smithsonian-osage-history",
@@ -66,7 +71,8 @@
       "indigenous history"
     ],
     "embedAllowed": false,
-    "sourceCheck": "Episode title confirmed in Smithsonian publisher episode index; episode-specific URL pending"
+    "sourceCheck": "pending",
+    "linkTarget": "series"
   },
   {
     "id": "smithsonian-book-banning",
@@ -84,6 +90,7 @@
       "history"
     ],
     "embedAllowed": false,
-    "sourceCheck": "Episode title confirmed in Smithsonian publisher episode index; episode-specific URL pending"
+    "sourceCheck": "pending",
+    "linkTarget": "series"
   }
 ]
